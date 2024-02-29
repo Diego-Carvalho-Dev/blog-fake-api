@@ -1,0 +1,57 @@
+{
+   "users": [
+      {
+         "email": "kenzinho@mail.com",
+         "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+         "name": "Kenzinho",
+         "id": 1
+      }
+   ],
+   "news": [
+      {
+         "id": 1,
+         "category": "economia",
+         "title": "Entenda o que é o arcabouço fiscal, ponto a ponto",
+         "content": "Conjunto de regras para substituir o teto de gastos foi divulgado nesta quinta-feira pela equipe econômica. Objetivo é permitir gastos considerados prioritários e possibilitar o aumento dos investimentos públicos, mas sem gerar descontrole nas contas do governo.",
+         "author": "Raphael Martins"
+      },
+      {
+         "id": 2,
+         "category": "seguranca",
+         "title": "Médico rastreia celular furtado e descobre prédio em SP com centenas de alertas de aparelhos roubados",
+         "content": "Rastreio foi feito após amigo ter o celular levado; rastreadores de outros aparelhos levados por criminosos apontavam para o mesmo local no Centro da cidade. Espaço foi alvo de busca e apreensão na terça-feira.",
+         "author": "Arthur Stabile e Camila Quaresma"
+      },
+      {
+         "id": 3,
+         "category": "mundo",
+         "title": "Piso de templo desaba na Índia e deixa 13 mortos; veja vídeo.",
+         "content": "Chão, que tapava um poço, cedeu, e 25 pessoas caíram, segundo autoridades. Caso aconteceu em Indore, no centro do país, que celebra esta semana um festival hindu.",
+         "author": "France Presse"
+      },
+      {
+         "id": 4,
+         "category": "economia",
+         "title": "Imposto de Renda 2023: como declarar planos de previdência PGBL e VGBL.",
+         "content": "Contribuições feitas para o PGBL são dedutíveis da base de cálculo do IR 2023 em até 12% da renda bruta tributável anual. Já o VGBL não permite o desconto.",
+         "author": "Isabela Bolzani"
+      }
+   ],
+   "categories": [
+      {
+         "id": 1,
+         "slug": "economia",
+         "label": "Economia"
+      },
+      {
+         "id": 2,
+         "slug": "seguranca",
+         "label": "Segurança"
+      },
+      {
+         "id": 3,
+         "slug": "mundo",
+         "label": "Mundo"
+      }
+   ]
+}
